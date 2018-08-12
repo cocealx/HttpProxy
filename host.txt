@@ -1,0 +1,10 @@
+1744939200 192.168.1.104
+4294967295 4294967295
+3412743481 detectportal.firefox.com
+1875538485 fanyi.baidu.com
+2099742256 fanyi.bdstatic.com
+3737632560 fex.bdstatic.com
+3788996987 img.bss.csdn.net
+537920023 ocsp.comodoca.com
+1964174621 ocsp1.digicert.com
+209328350 ocsp2.globalsign.com
